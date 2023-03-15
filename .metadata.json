@@ -1,0 +1,18 @@
+[
+  {
+    "package": "ALDqr",
+    "oncran": true
+  },
+  {
+    "package": "FMsmsnReg",
+    "oncran": true
+  },
+  {
+    "package": "ssmn",
+    "oncran": true
+  },
+  {
+    "package": "ssmsn",
+    "oncran": true
+  }
+]
