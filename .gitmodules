@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ALDqr"]
 	path = ALDqr
 	url = https://github.com/lbenitesanchez/aldqr
-	shallow = true
-	registered = true
 [submodule "FMsmsnReg"]
 	path = FMsmsnReg
 	url = https://github.com/lbenitesanchez/fmsmsnreg
-	shallow = true
-	registered = true
 [submodule "ssmn"]
 	path = ssmn
 	url = https://github.com/lbenitesanchez/ssmn
-	shallow = true
-	registered = true
 [submodule "ssmsn"]
 	path = ssmsn
 	url = https://github.com/lbenitesanchez/ssmsn
-	shallow = true
-	registered = true
